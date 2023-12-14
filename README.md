@@ -1,7 +1,7 @@
 https://github.com/DinamoRoller/Examen-tema-2.git
 # Examen-tema-2
 
-# Todos los ejercicios del examen se pueden encontrar en sus respectivas ramas. 
+## Todos los ejercicios del examen se pueden encontrar en sus respectivas ramas. 
 
 Respecto a la conclusión:
 
