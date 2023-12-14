@@ -22,3 +22,6 @@ b) Recomendaciones para la siguiente fase del proyecto fase del proyecto del CGE
 -Uso de control de versiones y estrategias de backup
 
 -Fomento de la comunicación del equipo y revisiones de código periódicas
+
+
+Fuentes usadas para la realización de algunos de los ejercicios: ChatGpt y Copilot
